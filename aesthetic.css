@@ -472,7 +472,15 @@
   border-left: 1px solid #DFDFDF;
   display: block;
   background-color: #BFBFBF;
-  padding: 4px; }
+ 
+  padding:4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 90vw;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .aesthetic-windows-95-container-indent {
   border: 1px solid;
