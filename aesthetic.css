@@ -1,7 +1,7 @@
 .aesthetic-bg-gradient {
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background: linear-gradient(#C774E8, #94D0FF); }
+  background: linear-gradient(#94D0FF, #94D0FF); }
 
 .aesthetic-white-color {
   color: #FAFAFA; }
@@ -477,7 +477,7 @@
   margin-top: 10px;
   margin-bottom: 10px;
   width: 90vw;
-  max-width: 800px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -1192,8 +1192,8 @@
 .aesthetic-windows-95-modal .aesthetic-windows-95-modal-content {
   padding-top: 5px;
   padding-bottom: 5px;
-  padding-left: 10px;
-  padding-right: 10px; }
+  padding-left: 20px;
+  padding-right: 20px; }
 
 .aesthetic-windows-xp-modal {
   background: #ece9d6;
